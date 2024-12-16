@@ -1,0 +1,6 @@
+@import url("https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/src/talwind.min.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
